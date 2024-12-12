@@ -1,0 +1,18 @@
+{
+  "timestamp": "2024-12-12T12:27:13.922Z",
+  "arquivosProcessados": [
+    {
+      "arquivo": "tenis-nike.jpg",
+      "status": "sucesso",
+      "dataBackup": "2024-12-12T12:26:54.289Z"
+    },
+    {
+      "arquivo": "not0found-gato.jpg",
+      "status": "sucesso",
+      "dataBackup": "2024-12-12T12:27:13.922Z"
+    }
+  ],
+  "sucessos": 2,
+  "falhas": 0,
+  "tamanhoTotal": 569747
+}
